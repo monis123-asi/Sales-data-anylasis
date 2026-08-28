@@ -8,7 +8,6 @@ This is my first practice project where I learned data cleaning and reporting.
 - MS Excel (VLOOKUP, Pivot Table, Data Cleaning)
 - Google Sheets
 - Notion (Expense Tracker)
-- 
 
 ### What I Did:
 1. Collected sample sales data
